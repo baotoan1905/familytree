@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "691560155488",
+    "firebase_url": "https://familytree1905.firebaseio.com",
+    "project_id": "familytree1905",
+    "storage_bucket": "familytree1905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691560155488:android:54d754e2c9998b1a157605",
+        "android_client_info": {
+          "package_name": "com.familytree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691560155488-lh2s91nagrkpf2749tj65c7dvmmku6nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.familytree",
+            "certificate_hash": "a7fb50235de9d989d4f431242335a718e1797adb"
+          }
+        },
+        {
+          "client_id": "691560155488-9jitkj2068gbucvnc4u94geds9ea99lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiJjF_w56EGyF-ecd9axBPhJ-byLqws3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691560155488-9jitkj2068gbucvnc4u94geds9ea99lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
